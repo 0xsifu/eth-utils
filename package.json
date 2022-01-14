@@ -1,0 +1,8 @@
+{
+  "name": "eth-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chefking/eth-utils.git",
+  "author": "chefking <chefking9000@protonmail.com>",
+  "license": "MIT"
+}
